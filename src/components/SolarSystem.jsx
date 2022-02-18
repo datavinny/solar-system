@@ -5,8 +5,8 @@ import planets from '../data/planets';
 
 class SolarSystem extends Component {
   render() {
-    const planetas = planets.map((each) => (
-      <PlanetCard planetName={ each.name } planetImage={ each.image } key={ each.name } />
+    const planetas = planets.map(({ name, image }) => (
+      <PlanetCard planetName={ name } planetImage={ image } key={ name } />
     ));
 
     return (
