@@ -22,7 +22,7 @@ Neste projeto, foi testado habilidades de:
 
 - Projeto individual;
 - Foi 1 dia de projeto;
-- Data de entrega do projeto: `03/02/2022 - 14:00h`
+- Data de entrega do projeto: `18/02/2022 - 18:22h`
 
 ## Para testar/contribuir no Projeto
 
