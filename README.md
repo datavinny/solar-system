@@ -18,12 +18,6 @@ Neste projeto, foi testado habilidades de:
   - Fazer uso de `props` corretamente
   - Fazer uso de `PropTypes` para validar as `props de um componente`
 
-### Data de entrega
-
-- Projeto individual;
-- Foi 1 dia de projeto;
-- Data de entrega do projeto: `18/02/2022 - 18:22h`
-
 ## Para testar/contribuir no Projeto
 
 ### Instalando Dependências
